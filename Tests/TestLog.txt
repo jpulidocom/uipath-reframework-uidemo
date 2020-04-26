@@ -1,0 +1,10 @@
+﻿
+=================================================
+Starting new set of 8 tests at 02:46:04  AM, 26/04/2020
+=================================================
+02:48:28 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+
+=================================================
+Starting new set of 8 tests at 02:50:13  AM, 26/04/2020
+=================================================
+02:50:16 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
