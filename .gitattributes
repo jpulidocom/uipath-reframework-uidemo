@@ -4,3 +4,5 @@
 *.xml linguist-detectable=true
 *.json linguist-detectable=true
 *.xaml linguist-detectable=true
+*.xlsx linguist-detectable=true
+*.pdf linguist-detectable=true
